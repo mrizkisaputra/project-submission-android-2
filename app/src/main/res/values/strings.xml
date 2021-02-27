@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">List User Github</string>
+    <string name="story_github_user">lorem Ipsum has been the industry
+        standard dummy text ever since the when an unknown printer </string>
+    <string name="name_user_github">Jake Wharton</string>
+    <string name="location_user_github">Pittsburgh, PA, USA</string>
+    <string name="repository">repository</string>
+    <string name="followers">followers</string>
+    <string name="follow">Follow</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="story">story</string>
+</resources>

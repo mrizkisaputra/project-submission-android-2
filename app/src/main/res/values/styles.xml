@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="font_roboto_bold">
+        <item name="android:fontFamily">@font/roboto_bold</item>
+    </style>
+    <style name="font_roboto_reguler">
+        <item name="android:fontFamily">@font/roboto_reguler</item>
+    </style>
+    <style name="font_roboto_light">
+        <item name="android:fontFamily">@font/roboto_light</item>
+    </style>
+</resources>
